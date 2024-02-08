@@ -4,3 +4,4 @@
 
 1. git add - добавить версионность
 2. git commit - 
+3. git checkout - 
